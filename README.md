@@ -6,6 +6,6 @@ This repo contains...
 - answers.ipynb, the answers to those questions
 
 
+<img width="1920" height="1080" alt="ella&#39;s website mockup don&#39;t touch!! (1)" src="https://github.com/user-attachments/assets/fed396ba-5732-4c72-804a-ff1511da10d5" />
 
-![Uploading ella's website mockup don't touch!! (1).png…]()
 
